@@ -1,74 +1,41 @@
-## Hi, I'm Francesco 👋
+## Francesco
 
-Full-stack developer with a strong focus on backend architecture  
-and mobile applications.
+I build things from zero.
 
-I enjoy designing systems that are clean, scalable, and easy to reason about,
-with particular attention to data modeling, performance, and long-term
-maintainability.
+I focus on the 0 → 1 phase: finding the simplest version that works,
+shipping early, and letting reality shape the next step.
 
----
-
-### 🧠 Engineering Focus
-
-- Backend architecture with NestJS
-- Authentication & session management
-- Cache-first data access patterns
-- Pagination, filtering, and optimized read paths
-- Mobile-first product engineering
+I care about momentum, clarity, and leverage.
+Not noise.
 
 ---
 
-### 🛠 Tech Stack
+### Principles
 
-**Backend**
-- NestJS
-- PostgreSQL
-- Supabase
-
-**Mobile**
-- React Native (Expo)
-
-**State & Data**
-- Zustand
-- TanStack Query
-
-**Caching & Infra**
-- Redis / Upstash
-- Render
-- EAS
+- Start small, learn fast
+- Build only what unblocks progress
+- Avoid premature structure
+- Let usage drive decisions
+- Keep systems easy to change
 
 ---
 
-### 📌 Selected Work
+### What I Do
 
-**Authentication services**
-- OTP-based authentication flows
-- Session persistence and refresh handling
-- First-access and onboarding logic
-
-**Data access & pagination**
-- Cursor-based and page-based pagination
-- Dynamic filtering strategies
-- Cache invalidation approaches
-
-**API & backend structure**
-- Clean module boundaries
-- Explicit domain logic
-- Scalable service design
+- Turn vague ideas into usable products
+- Build foundations that can evolve
+- Remove friction, not just add features
+- Iterate until direction becomes obvious
 
 ---
 
-### ⚙️ How I Work
+### Tools
 
-- Start from data modeling before writing code
-- Prefer explicit flows over hidden abstractions
-- Optimize read paths before write paths
-- Build systems with observability in mind
-- Design for scale early, not as an afterthought
+NestJS · PostgreSQL · Supabase  
+React Native (Expo)  
+Zustand · TanStack Query  
+Redis / Upstash · Render · EAS
 
 ---
 
-### 📫 Get in Touch
-
-Open to collaboration and interesting technical problems.
+Building quietly.
