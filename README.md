@@ -1,16 +1,74 @@
-## Hi there 👋
+## Hi, I'm Francesco 👋
 
-<!--
-**francescoerricodev/francescoerricodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with a strong focus on backend architecture  
+and mobile applications.
 
-Here are some ideas to get you started:
+I enjoy designing systems that are clean, scalable, and easy to reason about,
+with particular attention to data modeling, performance, and long-term
+maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Engineering Focus
+
+- Backend architecture with NestJS
+- Authentication & session management
+- Cache-first data access patterns
+- Pagination, filtering, and optimized read paths
+- Mobile-first product engineering
+
+---
+
+### 🛠 Tech Stack
+
+**Backend**
+- NestJS
+- PostgreSQL
+- Supabase
+
+**Mobile**
+- React Native (Expo)
+
+**State & Data**
+- Zustand
+- TanStack Query
+
+**Caching & Infra**
+- Redis / Upstash
+- Render
+- EAS
+
+---
+
+### 📌 Selected Work
+
+**Authentication services**
+- OTP-based authentication flows
+- Session persistence and refresh handling
+- First-access and onboarding logic
+
+**Data access & pagination**
+- Cursor-based and page-based pagination
+- Dynamic filtering strategies
+- Cache invalidation approaches
+
+**API & backend structure**
+- Clean module boundaries
+- Explicit domain logic
+- Scalable service design
+
+---
+
+### ⚙️ How I Work
+
+- Start from data modeling before writing code
+- Prefer explicit flows over hidden abstractions
+- Optimize read paths before write paths
+- Build systems with observability in mind
+- Design for scale early, not as an afterthought
+
+---
+
+### 📫 Get in Touch
+
+Open to collaboration and interesting technical problems.
