@@ -29,13 +29,4 @@ Not noise.
 
 ---
 
-### Tools
-
-NestJS · PostgreSQL · Supabase  
-React Native (Expo)  
-Zustand · TanStack Query  
-Redis / Upstash · Render · EAS
-
----
-
 Building quietly.
